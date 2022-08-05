@@ -13,3 +13,4 @@ services:
     project: src/api
     language: py
     host: appservice
+    
